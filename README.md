@@ -79,7 +79,7 @@ Custom rule created in Wazuh:
 ![Wazuh](docs/wazuh-alert.png)
 
 ### Shuffle Workflow
-![Shuffle](docs/shuffle-workflow.png)
+![Shuffle](docs/screenshots/shuffle-workflow.png)
 
 ### TheHive Case
 ![TheHive](docs/thehive-case.png)
