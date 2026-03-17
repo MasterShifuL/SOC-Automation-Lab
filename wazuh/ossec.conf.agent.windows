@@ -1,1 +1,9 @@
+<ossec_config>
 
+  <!-- Sysmon Log Collection -->
+  <localfile>
+    <location>Microsoft-Windows-Sysmon/Operational</location>
+    <log_format>eventchannel</log_format>
+  </localfile>
+
+</ossec_config>
