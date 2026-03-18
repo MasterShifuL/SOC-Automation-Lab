@@ -85,7 +85,7 @@ Custom rule created in Wazuh:
 ![TheHive](docs/screenshots/TheHive-Alert.png)
 
 ### Email Alert
-![Email](ddocs/screenshots/Email-Notification.png)
+![Email](docs/screenshots/Email-Notification.png)
 
 ---
 
