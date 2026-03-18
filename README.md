@@ -73,19 +73,19 @@ Custom rule created in Wazuh:
 
 ---
 
-## 📸 Screenshots
+## 📸 Evidence
 
 ### Wazuh Alert
-![Wazuh](docs/wazuh-alert.png)
+![Wazuh](docs/screenshots/Wazuh Alert.png)
 
 ### Shuffle Workflow
 ![Shuffle](docs/screenshots/shuffle-workflow.png)
 
 ### TheHive Case
-![TheHive](docs/thehive-case.png)
+![TheHive](docs/screenshots/shuffle-workflow.png)
 
 ### Email Alert
-![Email](docs/email-alert.png)
+![Email](ddocs/screenshots/shuffle-workflow.png)
 
 ---
 
