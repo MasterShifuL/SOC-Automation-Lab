@@ -76,16 +76,16 @@ Custom rule created in Wazuh:
 ## 📸 Evidence
 
 ### Wazuh Alert
-![Wazuh](docs/screenshots/Wazuh Alert.png)
+![Wazuh](docs/screenshots/Wazuh-Alert.png)
 
 ### Shuffle Workflow
 ![Shuffle](docs/screenshots/shuffle-workflow.png)
 
 ### TheHive Case
-![TheHive](docs/screenshots/shuffle-workflow.png)
+![TheHive](docs/screenshots/TheHive-Alert.png)
 
 ### Email Alert
-![Email](ddocs/screenshots/shuffle-workflow.png)
+![Email](ddocs/screenshots/Email-Notification.png)
 
 ---
 
