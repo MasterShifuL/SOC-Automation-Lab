@@ -81,7 +81,7 @@ Custom rule created in Wazuh:
 ### Shuffle Workflow
 ![Shuffle](docs/screenshots/shuffle-workflow.png)
 
-### TheHive Case
+### TheHive Alert
 ![TheHive](docs/screenshots/TheHive-Alert.png)
 
 ### Email Alert
